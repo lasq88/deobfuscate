@@ -10,3 +10,5 @@ optional arguments:
   -h, --help            show this help message and exit
   -m {replace,decompress,split,ascii}, --method {replace,decompress,split,ascii}
                         Specify obfuscation method
+
+Written by Lasq / malfind.com
